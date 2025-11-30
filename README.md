@@ -2,7 +2,6 @@
 
 **Enterprise AI platform automating HR/IT workflows across Workday, Active Directory, Slack API—saving companies $112K/month (90% cost reduction).**
 
-[![Demo](thumbnail.png)](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/bfa57cca5f22d6177201fdef2d2c8b4c/ce322ac5-f45c-428c-bcb1-53a0c76aae9c/index.html)
 
 ## 🚀 Live Demo
 [Open Workflow Agent Pro](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/bfa57cca5f22d6177201fdef2d2c8b4c/ce322ac5-f45c-428c-bcb1-53a0c76aae9c/index.html)
