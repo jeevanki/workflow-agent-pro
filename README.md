@@ -73,6 +73,15 @@ Enterprise Trust Signals
 ✅ GDPR Ready - EU data protection
 🔐 AES-256 Encrypted - Military-grade encryption
 
+#📋 Complete Installation Guide:
+## 🔧 Installation (1 Second)
+
+### **Method 1: Double-Click (Recommended)**
+Download ZIP → Extract
+
+Double-click index.html
+
+✅ Opens in your browser instantly
 
 ## 🚀 Live Project
 [Open Workflow Agent Pro](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/bfa57cca5f22d6177201fdef2d2c8b4c/ce322ac5-f45c-428c-bcb1-53a0c76aae9c/index.html)
